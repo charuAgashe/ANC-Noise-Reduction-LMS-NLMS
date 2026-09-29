@@ -48,6 +48,8 @@ The program produces:
 - LMS enhanced audio
 - NLMS enhanced audio
 - SNR comparison
+- <img width="940" height="569" alt="Audio_output" src="https://github.com/user-attachments/assets/278f9d14-4d45-4e37-b7c7-00d5891501b5" />
+
 
 ## Future Scope
 

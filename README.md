@@ -45,10 +45,20 @@ The program produces:
 
 - Original audio
 - Noisy audio
+## output
+<img width="940" height="569" alt="Audio_output" src="https://github.com/user-attachments/assets/b110464a-08a5-4b6d-b782-62212113dba2" />
 - LMS enhanced audio
 - NLMS enhanced audio
-- SNR comparison
-- <img width="940" height="569" alt="Audio_output" src="https://github.com/user-attachments/assets/278f9d14-4d45-4e37-b7c7-00d5891501b5" />
+<img width="946" height="593" alt="LMS-NLMS_output" src="https://github.com/user-attachments/assets/7f97cdce-e007-4551-bbad-c2fe5480b590" />
+- SNR Calculation
+--- ANC RESULTS ---
+Noisy Audio SNR : 5.90 dB
+LMS Output SNR  : 20.45 dB
+NLMS Output SNR : 4.94 dB
+Playing noisy audio...
+Playing LMS output...
+Playing NLMS output...
+
 
 
 ## Future Scope
